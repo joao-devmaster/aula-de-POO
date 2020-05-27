@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\bin\Debug\netcoreapp3.1\aula-de-POO.exe
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\bin\Debug\netcoreapp3.1\aula-de-POO.deps.json
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\bin\Debug\netcoreapp3.1\aula-de-POO.runtimeconfig.json
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\bin\Debug\netcoreapp3.1\aula-de-POO.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\bin\Debug\netcoreapp3.1\aula-de-POO.dll
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\bin\Debug\netcoreapp3.1\aula-de-POO.pdb
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\obj\Debug\netcoreapp3.1\aula-de-POO.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\obj\Debug\netcoreapp3.1\aula-de-POO.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\obj\Debug\netcoreapp3.1\aula-de-POO.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\obj\Debug\netcoreapp3.1\aula-de-POO.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\obj\Debug\netcoreapp3.1\aula-de-POO.dll
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\obj\Debug\netcoreapp3.1\aula-de-POO.pdb
+C:\Users\duart\OneDrive\Documentos\cadastro alunos.POO\aula-de-POO\obj\Debug\netcoreapp3.1\aula-de-POO.genruntimeconfig.cache
